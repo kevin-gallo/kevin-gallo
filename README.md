@@ -1,6 +1,4 @@
 <h1>👋 Hi, I’m Kevin Gallo</h1>
-
-# 💫 About Me:
 🚀 Dev<br>
 🌱 I’m currently learning some web development stuff<br>
 👯 I’m looking to collaborate on bootcamps<br>
